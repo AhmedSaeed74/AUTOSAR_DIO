@@ -6,10 +6,10 @@ The AUTOSAR DIO Driver is a software module designed to provide a standardized i
 
 ## Features
 
-Conforms to the AUTOSAR standard for digital I/O operations.
+1-Conforms to the AUTOSAR standard for digital I/O operations.
 
-Abstraction of microcontroller-specific GPIO configurations.
+2-Abstraction of microcontroller-specific GPIO configurations.
 
-Supports digital input and output operations.
+3-Supports digital input and output operations.
 
-Easily configurable for various microcontroller platforms.
+4-Easily configurable for various microcontroller platforms.
